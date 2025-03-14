@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/0631bab1-02a6-4102-89e2-b78cc398280a)
 # Super-Mario-Game-on-AWS-EKS-Using-Terraform-and-Kubernetes-
 This project demonstrates deploying a Mario game on a fully provisioned Kubernetes cluster hosted on AWS EKS, using Infrastructure as Code (IaC) and cloud-native tools.
 
